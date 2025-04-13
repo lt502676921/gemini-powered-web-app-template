@@ -27,8 +27,8 @@ interface RootLayoutProps {
 }
 
 export const metadata: Metadata = {
-  title: "青芒AI",
-  description: "青芒AI with Gemini demo: https://ai.tmallcampus.com",
+  title: "Gemini Web App",
+  description: "An AI-powered web app with Gemini",
 };
 
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
